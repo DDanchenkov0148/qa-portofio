@@ -58,4 +58,7 @@ Chrome DevTools
 
 ## Итоги
 
-- [Позитивные тест-кейсы для формы логина](login_test_cases.md)
+- [Позитивные тест-кейсы авторизации](authorization_test_cases.md)
+- [Негативные тест-кейсы авторизации](authorization_negative_test_cases.md)
+- [Чек-лист авторизации](authorization_checklist.md)
+
